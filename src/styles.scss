@@ -2,11 +2,14 @@
 
 body {
     margin: 0;
-    background: #F2F2F2;
+    background: #120202;
     font-family: 'Montserrat', sans-serif;
     height: 100vh;
 }
 
+h1{
+    color:white;
+}
 #container {
    display: grid;
    grid-template-columns: 70px auto;
