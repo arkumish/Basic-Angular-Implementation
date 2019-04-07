@@ -1,4 +1,21 @@
-# Ng6
+## A Basic Web project to implement Angular routing and consuming https service
+
+#### Things I learn :
+* Install Angular 6 with the Angular CLI
+* Understand and Create Components
+* Understand and Create Services
+* Working with HTML & CSS in Angular 6
+* Working with Angular 6 Routing
+* Working with the Angular 6 HTTP Client
+
+Let's get started!
+
+Explore [angular.io](https://angular.io/): To learn Angular <br>
+Try [JSONPlaceholder](https://jsonplaceholder.typicode.com/) : For Fake Online REST API for Testing and Prototyping 
+
+
+
+--- 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.5.
 
